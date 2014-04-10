@@ -1,0 +1,56 @@
+---
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ALL THE 2048</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="shortcut icon" href="favicon.ico">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>ALL THE 2048</h1>
+      <p>An updated list of all the 2048 variants out there! (in no particular order)</p>
+    </header>
+    <section>
+      <ul class="variants-list">
+        {% for variant in site.data.variants %}
+        <li class="variant">
+          <a href="{{ variant.url }}"><strong>{{ variant.name }}</strong></a>
+          by {{ variant.author }}
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <footer>
+      <p class="contributing">
+        To add your own, <a href="http://github.com/agelber/allthe2048">fork on github</a>, add your own and open a pull request.
+      </p>
+      <hr />
+      <p class="credit">
+        Original 2048 created by <a href="http://gabrielecirulli.com">Gabriele Cirulli.</a>
+        This list created by <a href="http://agelber.com">Assaf Gelber.</a>
+      </p>
+      <a href="https://twitter.com/share" class="twitter-share-button" data-text="ALL THE 2048S EVER!!!" data-via="assafgelber" data-hashtags="2048game">Tweet</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      <iframe src="http://ghbtns.com/github-btn.html?user=agelber&repo=allthe2048&type=watch&count=true"
+  allowtransparency="true" frameborder="0" scrolling="0" width="110" height="20"></iframe>
+    </footer>
+  </div>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-49233254-1', 'allthe2048.com');
+    ga('send', 'pageview');
+
+  </script>
+</body>
+</html>

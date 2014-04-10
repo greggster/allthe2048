@@ -1,0 +1,247 @@
+- url: http://gabrielecirulli.github.io/2048/
+  name: Original
+  author: Gabriele Cirulli
+
+- url: http://ov3y.github.io/2048-AI/
+  name: 2048 AI
+  author: Matt Overlan
+
+- url: http://joppi.github.io/2048-3D/
+  name: 2048-3D
+  author: Michal Opler
+
+- url: http://huonw.github.io/2048-4D/
+  name: 2048-4D
+  author: Huon Wilson
+
+- url: http://prat0318.github.io/2048-tetris/
+  name: 2048 Tetris
+  author: Prateek Agarwal
+
+- url: http://emils.github.io/2048-multiplayer/
+  name: 2048-Multiplayer
+  author: Emil Stolarsky
+
+- url: http://rudradevbasak.github.io/16384_hex/
+  name: Hex 16384
+  author: Rudradev Basak
+
+- url: http://jonastermeau.com/files/others/2048%5E0/
+  name: 2048^0
+  author: Jonas Termeau
+
+- url: http://quaxio.com/2048/
+  name: 2048-undo
+  author: Alok Menghrajani
+
+- url: http://milrivel.github.io/LHC/
+  name: LHC (2048 For Physicists)
+  author: milrivel
+
+- url: http://jffry.github.io/2048-Meta/
+  name: 2048 Meta
+  author: Jeffrey Stanton
+
+- url: http://amschrader.github.io/2048/
+  name: Pokemon 2048
+  author: Allyson Schrader
+
+- url: http://doge2048.com
+  name: Doge 2048
+  author: Jason LaFerrera
+
+- url: http://hczhcz.github.io/Flappy-2048/
+  name: Flappy 2048
+  author: hcz
+
+- url: http://jmfork.github.io/2048/
+  name: Deterministic 2048
+  author: jmfork
+
+- url: http://t2.technion.ac.il/~s7395779/
+  name: 11
+  author: Elazar Gershuni
+
+- url: http://hgentry.github.io/81/
+  name: 243
+  author: Harrison Gentry
+
+- url: http://hgentry.github.io/1/
+  name: 1
+  author: Harrison Gentry
+
+- url: http://hgentry.github.io/204div/
+  name: 204div
+  author: Harrison Gentry
+
+- url: http://hgentry.github.io/-512/
+  name: -512
+  author: Harrison Gentry
+
+- url: http://chenglou.github.io/flappy-2048-side-by-side/
+  name: Flappy 2048 Side-By-Side
+  author: Cheng Lou
+
+- url: https://dropbox2048.site44.com/
+  name: Dropbox 2048
+  author: Dropbox
+
+- url: http://git.io/2048dbz
+  name: 2048DBZ
+  author: Gonzalo Gluzman & Matias Garcia Isaia
+
+- url: https://sphere.chronosempire.org.uk/~HEx/8402/
+  name: 8402
+  author: Tom Hargreaves
+
+- url: https://glyphobet.github.io/zero/
+  name: zero
+  author: Matt Chisholm
+
+- url: http://benfb.github.io/fb2048
+  name: fb2048
+  author: Ben Bailey
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/8192/
+  name: 8192
+  author: JamesQAQ
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/65536/
+  name: 65536
+  author: JamesQAQ
+
+- url: http://www.csie.ntu.edu.tw/~b01902112/9007199254740992/
+  name: 9007199254740992
+  author: JamesQAQ
+
+- url: http://wegnerdesign.com/2048/
+  name: 2(048)
+  author: Joe Wegner
+
+- url: http://saming.fr/p/2048
+  name: 2048
+  author: Saming
+
+- url: http://joezeng.com/projects/games/144
+  name: 144
+  author: Joe Zeng
+
+- url: http://jatekos101.github.io/20euros/
+  name: 20 Euro
+  author: jatekos101
+
+- url: http://www.matimenkes.com/2048/justinbieber/
+  name: 2048 - Justin Bieber
+  author: Mati Menkes
+
+- url: http://duarteduarte.tk/2048/
+  name: 2048 - A Mostly Wrong History of Programming Languages
+  author: Duarte Duarte & JP Dias
+
+- url: http://la-oui.ch/troll2048/
+  name: troll2048
+  author: J2R2
+
+- url: http://uhyohyo.net/quantum2048/
+  name: Quantum 2048
+  author: uhyo
+
+- url: https://chrome.google.com/webstore/detail/cosmos-2048/ojkbpohgdnlijekgdnadeaohlbbbijeg
+  name: Cosmos 2048 (Chrome Extension)
+  author: Agadeta Games
+
+- url: http://la-oui.ch/lulz2048/
+  name: lulz2048
+  author: J2R2
+
+- url: http://mattleblanc.github.io/LHC/
+  name: LHC (2048 for creating a HIGGS BOSON)
+  author: mattleblanc
+
+- url: http://darkstar112358.github.io/anti-2048/
+  name: anti-2048
+  author: darkstar112358
+
+- url: http://www.oeilpouroeil.fr/opo48/
+  name: OPO48
+  author: Oeil pour Oeil
+
+- url: http://dweymouth.github.io/divideit
+  name: Divide It!
+  author: Drew Weymouth
+
+- url: http://www.ajnas.in/one/
+  name: One 
+  author: Ajnas Kt
+
+- url: http://la-oui.ch/syn2048/
+  name: syn2048
+  author: J2R2
+
+- url: http://diamondtrader.citroon.com/
+  name: Play with Diamonds (for people who don't like numbers)
+  author: Jrmgx
+
+- url: http://tinyurl.com/paw2048
+  name: PAW 2048
+  author: cestsupersympa
+
+- url: http://2048game.org/simpson/
+  name: Simpsons 2048
+  author: Amit Surti
+
+- url: http://www.b4rm4n.com/shots/
+  name: SH0TS!
+  author: B4RM4N
+
+- url: http://hczhcz.github.io/Racing-2048/
+  name: Racing 2048
+  author: hcz
+
+- url: http://hczhcz.github.io/2048/
+  name: Upside Down 2048
+  author: hcz
+
+- url: http://hczhcz.github.io/2048/20ez/
+  name: Easy 2048
+  author: hcz
+
+- url: http://www.twitch.tv/twitchplayswebgames
+  name: Twitch Plays 2048
+  author: Twitch
+
+- url: http://mcsdwvl.github.io/to11/
+  name: to11 - puzzle 2048
+  author: Matthew Vassilakos
+
+- url: http://1338h4x.github.io/2-2-4/
+  name: Yet Another 2048 Variant
+  author: 1338h4x
+
+- url: http://suki.ipb.ac.rs/11/
+  name: 11 Game
+  author: Milovan Suvakov
+
+- url: http://2048alphabet.com
+  name: 2048 Alphabet
+  author: Misho M. Petkovic
+
+- url: http://vladimirmandaric.github.io/DIAGONAL2048/2048-master/index.html
+  name: Diagonal 2048
+  author: Vladimir Mandaric
+
+- url: http://blanboom.org/2048/
+  name: Mg
+  author: Blanboom
+
+- url: http://2048alphabet.com/hiragana/
+  name: 2048 Hiragana
+  author: Misho M. Petkovic
+
+- url: http://2048alphabet.com/katakana/
+  name: 2048 Katakana
+  author: Misho M. Petkovic
+
+- url: http://games.usvsth3m.com/2048/complex-function-2048-edition/
+  name: Complex function edition 2048
+  author: Mikael Mayer
